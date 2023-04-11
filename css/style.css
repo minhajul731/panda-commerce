@@ -1,3 +1,18 @@
 .top-banner-custome-color {
     background-color: rgb(252, 234, 232);
 }
+
+.category-watch-color {
+    background-image: linear-gradient(to right, rgba(255, 140, 0, 0.847), rgba(255, 255, 9, 0.847));
+    text-shadow: 2px 2px 5px rgba(128, 128, 128, 0.896);
+}
+
+.category-bag-color {
+    background-image: linear-gradient(to right, rgba(255, 26, 26, 0.847), rgb(255, 38, 179, 0.847));
+    text-shadow: 2px 2px 5px rgba(128, 128, 128, 0.896);
+}
+
+.category-shoes-color {
+    background-image: linear-gradient(to right, rgba(41, 26, 255, 0.847), rgba(38, 194, 255, 0.847));
+    text-shadow: 2px 2px 5px rgba(128, 128, 128, 0.896);
+}
